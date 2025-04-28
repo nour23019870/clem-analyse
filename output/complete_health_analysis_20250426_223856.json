@@ -1,0 +1,394 @@
+[
+  {
+    "timestamp": "20250426_223856",
+    "facial_analysis": {
+      "timestamp": "20250426_223842",
+      "face_id": 0,
+      "features": {
+        "bbox": [
+          174,
+          254,
+          180,
+          180
+        ],
+        "landmarks": [
+          [
+            175,
+            307
+          ],
+          [
+            177,
+            330
+          ],
+          [
+            182,
+            352
+          ],
+          [
+            187,
+            373
+          ],
+          [
+            194,
+            392
+          ],
+          [
+            206,
+            410
+          ],
+          [
+            221,
+            424
+          ],
+          [
+            241,
+            432
+          ],
+          [
+            264,
+            433
+          ],
+          [
+            287,
+            430
+          ],
+          [
+            305,
+            421
+          ],
+          [
+            317,
+            406
+          ],
+          [
+            327,
+            389
+          ],
+          [
+            334,
+            370
+          ],
+          [
+            339,
+            349
+          ],
+          [
+            343,
+            328
+          ],
+          [
+            344,
+            306
+          ],
+          [
+            191,
+            281
+          ],
+          [
+            199,
+            267
+          ],
+          [
+            214,
+            261
+          ],
+          [
+            231,
+            260
+          ],
+          [
+            247,
+            265
+          ],
+          [
+            276,
+            264
+          ],
+          [
+            292,
+            259
+          ],
+          [
+            308,
+            259
+          ],
+          [
+            323,
+            264
+          ],
+          [
+            332,
+            277
+          ],
+          [
+            262,
+            291
+          ],
+          [
+            262,
+            307
+          ],
+          [
+            262,
+            322
+          ],
+          [
+            263,
+            337
+          ],
+          [
+            246,
+            350
+          ],
+          [
+            254,
+            352
+          ],
+          [
+            263,
+            355
+          ],
+          [
+            272,
+            352
+          ],
+          [
+            280,
+            349
+          ],
+          [
+            210,
+            300
+          ],
+          [
+            219,
+            293
+          ],
+          [
+            230,
+            292
+          ],
+          [
+            239,
+            300
+          ],
+          [
+            230,
+            303
+          ],
+          [
+            218,
+            303
+          ],
+          [
+            284,
+            299
+          ],
+          [
+            293,
+            290
+          ],
+          [
+            305,
+            290
+          ],
+          [
+            313,
+            297
+          ],
+          [
+            305,
+            301
+          ],
+          [
+            294,
+            301
+          ],
+          [
+            232,
+            385
+          ],
+          [
+            242,
+            376
+          ],
+          [
+            254,
+            371
+          ],
+          [
+            263,
+            373
+          ],
+          [
+            271,
+            370
+          ],
+          [
+            282,
+            374
+          ],
+          [
+            292,
+            384
+          ],
+          [
+            283,
+            394
+          ],
+          [
+            273,
+            398
+          ],
+          [
+            264,
+            399
+          ],
+          [
+            254,
+            398
+          ],
+          [
+            243,
+            395
+          ],
+          [
+            238,
+            385
+          ],
+          [
+            254,
+            382
+          ],
+          [
+            263,
+            382
+          ],
+          [
+            272,
+            381
+          ],
+          [
+            287,
+            384
+          ],
+          [
+            272,
+            384
+          ],
+          [
+            263,
+            385
+          ],
+          [
+            254,
+            385
+          ]
+        ],
+        "metrics": {
+          "left_eye_width": 29.0,
+          "right_eye_width": 29.068883707497267,
+          "eye_width_ratio": 0.997630328422983,
+          "face_width": 169.00295855398508,
+          "face_height": 142.01408380861386,
+          "face_width_height_ratio": 1.1900436493449689
+        },
+        "symmetry": {
+          "eyes_level": 0.7887323943661972,
+          "overall_symmetry": 0.9527775145957502
+        },
+        "skin": {
+          "skin_tone": {
+            "hue": 28.41888888888889,
+            "saturation": 127.3711111111111,
+            "value": 86.49777777777778
+          },
+          "texture": 55.86288765432099
+        },
+        "facial_ratios": {
+          "top_third_ratio": 0.36602963700674057,
+          "top_golden_ratio_diff": 1.2519703629932595,
+          "middle_third_ratio": 1.3665784995142538,
+          "middle_golden_ratio_diff": 0.2514215004857463,
+          "eye_spacing_ratio": 1.5502660587186807
+        }
+      },
+      "health_analysis": {
+        "facial_symmetry": 0.9527775145957502,
+        "symmetry_evaluation": "High symmetry",
+        "eyes_level_symmetry": 0.7887323943661972,
+        "note_eye_level": "Eye level asymmetry noted - may indicate musculoskeletal alignment factors",
+        "skin_tone_note": "Yellowish tint detected - may indicate bilirubin variations",
+        "skin_texture": 55.86288765432099,
+        "texture_note": "Moderate skin texture variation - may indicate mild dehydration",
+        "facial_fullness": 1.0,
+        "fullness_evaluation": "High facial fullness - within normal variation",
+        "golden_ratio_harmony": 0,
+        "estimated_stress_level": {
+          "value": 12.6,
+          "unit": "proxy score",
+          "note": "Estimated from facial tension patterns, not actual lab value"
+        },
+        "sleep_quality_estimate": {
+          "value": 7.9,
+          "unit": "quality score",
+          "note": "Estimated from eye appearance and facial relaxation indicators"
+        },
+        "analysis_timestamp": "2025-04-26 22:38:42"
+      },
+      "health_score": 7.7,
+      "health_status": "Good",
+      "recommendations": [
+        "Consider hydration and skincare routine"
+      ]
+    },
+    "body_analysis": {
+      "timestamp": "20250426_223856",
+      "keypoints_detected": 15,
+      "keypoint_confidence": 0.7200000000000001,
+      "height_pixels": 420,
+      "body_analysis": {
+        "posture": {
+          "spine_alignment": -0.9973474214527729,
+          "vertical_deviation_degrees": 89.88063396537478,
+          "head_position": 0,
+          "posture_quality": "Concerning",
+          "posture_note": "Significant posture deviation detected"
+        },
+        "proportions": {
+          "waist_hip_ratio": 1.352112676056338,
+          "shoulder_width_ratio": 1.5023474178403755,
+          "leg_torso_ratio": 0.6666666666666666,
+          "proportion_note": "Higher waist-hip ratio detected"
+        },
+        "symmetry": {
+          "shoulder_symmetry": 1.0,
+          "hip_symmetry": 0.997196261682243,
+          "overall_symmetry": 0.9985981308411215,
+          "symmetry_note": "Excellent body symmetry"
+        },
+        "balance": {
+          "weight_distribution": 0.9953051643192489,
+          "balance_quality": "Excellent",
+          "balance_note": "Excellent weight distribution and balance"
+        },
+        "health_assessment": {
+          "health_score": 3.3,
+          "health_status": "Poor",
+          "summary": "Body analysis indicates several posture and alignment issues that should be addressed."
+        }
+      },
+      "recommendations": [
+        "Consider posture improvement exercises",
+        "Practice standing with back against wall to improve alignment"
+      ]
+    },
+    "overall_health_score": 5.9,
+    "overall_health_status": "Fair",
+    "recommendations": [
+      "Consider hydration and skincare routine",
+      "Consider posture improvement exercises",
+      "Practice standing with back against wall to improve alignment"
+    ]
+  }
+]

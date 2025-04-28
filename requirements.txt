@@ -1,0 +1,9 @@
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+dlib-bin==19.24.6
+numpy>=1.24.3
+pillow>=9.0.0
+
+# Optional packages for GPU acceleration (uncomment to install)
+# torch>=2.0.0
+# torchvision>=0.15.0
